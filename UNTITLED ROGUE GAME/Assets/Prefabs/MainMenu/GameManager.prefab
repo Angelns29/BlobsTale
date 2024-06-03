@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5183926162630428572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2196401846069149028}
+  - component: {fileID: 4990937619367996481}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2196401846069149028
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5183926162630428572}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.9595417, y: 0.6958523, z: -0.030019682}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4990937619367996481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5183926162630428572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c59e4b6db7fb4bb4f801cc7c60ff57ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EasyLevels:
+  - {fileID: 4944689852793341492, guid: cea62e7362009a442a949c7deaac6c5a, type: 3}
+  - {fileID: 2746758011830351352, guid: fb86735dbbc17484d93e7657b4a228e3, type: 3}
+  - {fileID: 6949433925630487146, guid: 5f42b9d51f15fb640a3f40dacc4a1ae5, type: 3}
+  - {fileID: 6055446735850384191, guid: c5e7b4f96662a50498cd576508494f36, type: 3}
+  MidLevels:
+  - {fileID: 181310830888726558, guid: 47a47149ee9831a44a4b2e8bc5a6e96d, type: 3}
+  - {fileID: 4476708690283671736, guid: e6189c5c72c62ee43b93268a00ce6a05, type: 3}
+  - {fileID: 1772585770440051059, guid: e2cc4f97c5db61b42a096640ca9484d8, type: 3}
+  - {fileID: 8025812053842772930, guid: a859ab2c42f90714b9b189541c99ac41, type: 3}
+  DifLevels:
+  - {fileID: 5797375236736207921, guid: f0ce163174d8e1c40afac9c929a77098, type: 3}
+  - {fileID: 1583171570963233723, guid: 47c0471add4257d4f85b4a2e8290714f, type: 3}
+  - {fileID: 4391439286469886856, guid: 935f1fedd76a413499232c667bdfa67f, type: 3}
+  - {fileID: 1936221606729217612, guid: a3c042ce9193c3443be13dc47c73f429, type: 3}
+  BossLevels:
+  - {fileID: 2714723360790652560, guid: 94b5b2e7f9be2a54cb15e746f8a77bd0, type: 3}
+  - {fileID: 8298556859505052693, guid: bc56fdaec8f28c14987756374c618d9d, type: 3}
+  - {fileID: 8529049055842578405, guid: e430e2d9718807746a0ebaf83839262e, type: 3}
+  currentLevel: 1
+  isMutedBool: 0
+  isFPSTextActive: 0
+  isFullScreen: 0
+  mutedText: {fileID: 0}
+  FPSText: {fileID: 0}
+  FullScreenText: {fileID: 0}
+  mutedToggleValue: 0
+  FPSToggleValue: 0
+  FullScreenToggleValue: 0
+  musicSliderValue: 0
+  SFXSliderValue: 0
+  musicSliderValueBeforeMuting: 0
+  SFXSliderValueBeforeMuting: 0
+  isThereSaveData: 0
+  canvasManager: {fileID: 0}

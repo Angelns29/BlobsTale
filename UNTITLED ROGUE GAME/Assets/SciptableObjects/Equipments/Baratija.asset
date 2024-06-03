@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a67ea656339b0c4d8ddfe9ac9c62db7, type: 3}
+  m_Name: Baratija
+  m_EditorClassIdentifier: 
+  itemID: 0
+  itemName: Baratija
+  itemImage: {fileID: -2066154982, guid: 4e88ee53d70014c4bab5c6815c65ea58, type: 3}
+  cost: 50
+  description: "Tan desechable como t\xFA"
+  RarityString: Rare
+  Rarity: 0
+  statMultiplier: 0
+  stats:
+  - health
+  - armor
+  multiplier: 

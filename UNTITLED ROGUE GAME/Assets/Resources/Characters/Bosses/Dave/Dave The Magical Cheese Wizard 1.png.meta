@@ -1,0 +1,2455 @@
+fileFormatVersion: 2
+guid: be8bce0cad1aa2a4d91ba019a6adec2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d2c2b3addd06749abd98d4000a6524
+      internalID: -1095164669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03644742b3014408c55c60dda921a1
+      internalID: -1733375221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb766430e0d564f941db8bb0255130
+      internalID: 1861229754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e218f47f8baa4784becb0b1f4f11f
+      internalID: 660043185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_4
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1718a45c2c65264ea5d55b09fa7a2ca
+      internalID: 1701578705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a708cd79ef841a41a34bee66dedd8f1
+      internalID: -955587741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8feddb60402ec43a1fc667f3f4b509
+      internalID: 1787036816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a72cf80d26958b458ba73c76e34a1c8
+      internalID: -1033173917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_8
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677ee8b41df2dea4fa41e5c262c5b3ce
+      internalID: 1770331130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1cf4ee5142d684485390e2c11118fa
+      internalID: -1544530327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32895b0a48d79de42b5cb0b8e7efa92d
+      internalID: -1686154193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_11
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 303
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8752ed0623c9459463eac769c263e
+      internalID: -493012257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 303
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa0dde2fa00aec4cbf08d53647571df
+      internalID: -1699786587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02997c8f80f480c498cf00351567962a
+      internalID: 1929733340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b830dff74a2db742ab00dd420e92e9e
+      internalID: 1173945561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eda8e662707b4c4cb780c0a3f82ef5c
+      internalID: -1230012902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b118c1f11601a84e8a2a318fb23f522
+      internalID: -550947784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c872cc5a91a4c148a9c43fbbd2910ad
+      internalID: -394173082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b108e76407cd84c8ad2fa08e7fb33d
+      internalID: 152111895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15411a25bae4b9a4085b48100a2f9963
+      internalID: -2022599290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9420423760e1948aebf1bcb24e75b7
+      internalID: -491658086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_21
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09112f0a35b774a42ae194068c49cb03
+      internalID: -53346295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fba95f3ac67a2d40b9a90bd9b0cdca0
+      internalID: -988185143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_23
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4f43ca024e8646877656331435e95
+      internalID: 1078312509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_24
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 260
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bcf3e43fde5e44c88359a5ec797620
+      internalID: -136460757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 260
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635011066dd6d724091f98246ecb37bf
+      internalID: -1903844066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac06df54e166c46bff92f43ad04a28
+      internalID: -1011286258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_27
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672da690376927947830b4524c6e4c32
+      internalID: -1796702062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c4b143565a14b4d8252d66bca88a6a
+      internalID: -1486775374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9c0da59916f3b46be91b6f5d8e6839
+      internalID: 476502506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_30
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feca44c108b15a4da7b7860628059c2
+      internalID: -1953468065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3fdc3c19a365747a334e6166a04a6b
+      internalID: -1905225948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f098a6f8d072644e8284d10b6c07604
+      internalID: 1433094399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31082563b3d7d5d44b9829031b9cdf06
+      internalID: -1649376007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_34
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c7307983f850489e2f4b88e5a23f3
+      internalID: -1510789158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_35
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c62397e21e06a4087b53732a65956c
+      internalID: 1695051006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_36
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0812292968aff4a4e8ca4b9944b51800
+      internalID: -2019161980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 217
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64d197152f41046a6f148216f3d693
+      internalID: 1603209070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 217
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d590c3547f09044b35ad5272d3accd
+      internalID: 972139504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc22a6ba17a2ea49831dadddef9919a
+      internalID: 126043009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b73da211c852540b727999771c2704
+      internalID: 2133649598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_41
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb074407d5f724585ee112013e2ba6
+      internalID: -1949736194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_42
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e643fccd49bc6b44f867645f6451e8b3
+      internalID: -1735760809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c417cd14271a3ad41bf9a8a1ca0a53ac
+      internalID: 1954799127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cc81ed4acaa8f41acc316f2f8415d0
+      internalID: -318579385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_45
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685d0e2cae255e4faf60cb96e4195f3
+      internalID: 63162086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_46
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e1c8db3fc5fc8448010ad35047ed4a
+      internalID: 395415130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_47
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35765e9ff740e0a48a60be6070a8467b
+      internalID: 1640883079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_48
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae90c3105c1cc3408edaaf6e074fa69
+      internalID: 1618258272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_49
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ccbf943158904d9b93784739a13fd
+      internalID: -1083105182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 174
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f925ac05e20eab9499ef4c0cf0087d50
+      internalID: -1959844465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_51
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 174
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54b78ee03306c445ba909d95824c69d
+      internalID: -418936305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9108356476006c84db1a514ff3d67218
+      internalID: -484600732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_53
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf1096672261bf4782496243305d341
+      internalID: -394701682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2546fe6e1e9cb004aa5aaea77610afb5
+      internalID: 1400139974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756520fb877a42a4dba34a9f3578121f
+      internalID: -1409669743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_56
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d507d9e946a692f439115925d5e6b329
+      internalID: -1899192065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45edbca459236e4d902f828941ba6b1
+      internalID: 1591117806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac365488ec75845b07c2021ac56b85
+      internalID: -1755007436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b01c728f3b4b7f4f96a88214ec6dc7b
+      internalID: -1633354277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_60
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3436f07d5fb6c4093d40d88416cf08
+      internalID: 251979575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_61
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae39bac6b828a9d4bb7051a16f7407fa
+      internalID: -1522153632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_62
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c914769ac196a6b4ab42f37638f15bf7
+      internalID: -1663300991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 131
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329a98cf9aa9eb84289644bdd0a45d37
+      internalID: 81029769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_64
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 131
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49b1f00b67fce4c93e061714289616
+      internalID: 699926933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a186fa8a43d04fb90cd2e2c42739b
+      internalID: -720166794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_66
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e227848ad2889f4e9aeb56e9d0962db
+      internalID: -392175392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e910dd3f74bd2564f86e8e6c70942d33
+      internalID: 1878745181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24570a68150744e963ed52f3f3538b
+      internalID: -607024377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a84ff8b7a6d9f40ace091901a73e86
+      internalID: -298719535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_70
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aeb798487a9b94e996ab5b96aad5d5
+      internalID: -148775005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_71
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb1ab895ed06bc4ba83dfe8b438d821
+      internalID: 569941030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_72
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab65635aa4e07d24d84ae1ff6106e927
+      internalID: 6610375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_73
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688905ee57cb3e0469316d948bb4f697
+      internalID: 1871999597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_74
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae7b52120a4ce341a99d811d1e9cebd
+      internalID: -964152407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_75
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6038a4ec77f24e896173fbe08aa11
+      internalID: 318234257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_76
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 88
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0605bd4abb7397f4e8f31b467687df15
+      internalID: 699967418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_77
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 88
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257fd0526db66d04b814e96b39a297ef
+      internalID: -777596280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51086c39a035214d829876fea6fdfb2
+      internalID: -884621801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_79
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2fba6785076ed4ba83e7834af60f60
+      internalID: -638083566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_80
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19c70d375b0c6a4099bd3ff24f2d700
+      internalID: 654108108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be561b3de628fb4b83df535d2100aaf
+      internalID: 1365810888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f60e11d1c21fb448d4255efc89a1b8
+      internalID: 1406518780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619e343cd77566e4ebfe2b7a944ecc63
+      internalID: 2070598188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_84
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a326bbccb070149b3ff04e70c4d3af
+      internalID: 737364938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_85
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba6419a4860d964fbab7540504c7c24
+      internalID: 678037102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_86
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2001f8eda5f067048a7cf5e99c822230
+      internalID: -1365498111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_87
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23dfe4ce7d1d9147be2e27647f1ef7d
+      internalID: 44480770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_88
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508dadac6aa987640851f2adc7bc0fec
+      internalID: -1664686333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_89
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 45
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f461dadb0a5d1346aefba364f01fa56
+      internalID: 1312036021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_90
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 45
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b11bd0b38cd14bb36647ad19cc02f
+      internalID: -384603420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97be51f6d145379499a596c70ec065fb
+      internalID: -1596736339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_92
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bceb6b460fb61448adfe3f13a7ac0b
+      internalID: -410929282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_93
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be26599cc51144cad4def66d8be1e7
+      internalID: 1942537214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_94
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f12d64dd529ae499ea07aec947ca05
+      internalID: -987149335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c90d70c05f384683784b00470970d
+      internalID: 503569621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_96
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243a281652aa90a45bd4d4b6fce4ebbc
+      internalID: 53401665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_97
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd84c1b4adcc1641b2099f2e1533559
+      internalID: 971932632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_98
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130282003e466dc44b79caeb7b4e2e83
+      internalID: 1396219709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77556b871fcb6143b29eae4b08f32c6
+      internalID: -1652257887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_100
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02daf537da1b4fe49923286ca2d82cab
+      internalID: -1938382630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_101
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ffe8dfcfc3f8c4a8229f3a780541da
+      internalID: -932539385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_102
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d62e2a0e02f3947b8032af996a07c4
+      internalID: -1694783439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dave The Magical Cheese Wizard 1_103
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7880ac74a385bf42b7a97b450273c17
+      internalID: -416350196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dave The Magical Cheese Wizard 1_0: -1095164669
+      Dave The Magical Cheese Wizard 1_1: -1733375221
+      Dave The Magical Cheese Wizard 1_10: -1686154193
+      Dave The Magical Cheese Wizard 1_100: -1938382630
+      Dave The Magical Cheese Wizard 1_101: -932539385
+      Dave The Magical Cheese Wizard 1_102: -1694783439
+      Dave The Magical Cheese Wizard 1_103: -416350196
+      Dave The Magical Cheese Wizard 1_104: 1300194781
+      Dave The Magical Cheese Wizard 1_11: -493012257
+      Dave The Magical Cheese Wizard 1_12: -1699786587
+      Dave The Magical Cheese Wizard 1_13: 1929733340
+      Dave The Magical Cheese Wizard 1_14: 1173945561
+      Dave The Magical Cheese Wizard 1_15: -1230012902
+      Dave The Magical Cheese Wizard 1_16: -550947784
+      Dave The Magical Cheese Wizard 1_17: -394173082
+      Dave The Magical Cheese Wizard 1_18: 152111895
+      Dave The Magical Cheese Wizard 1_19: -2022599290
+      Dave The Magical Cheese Wizard 1_2: 1861229754
+      Dave The Magical Cheese Wizard 1_20: -491658086
+      Dave The Magical Cheese Wizard 1_21: -53346295
+      Dave The Magical Cheese Wizard 1_22: -988185143
+      Dave The Magical Cheese Wizard 1_23: 1078312509
+      Dave The Magical Cheese Wizard 1_24: -136460757
+      Dave The Magical Cheese Wizard 1_25: -1903844066
+      Dave The Magical Cheese Wizard 1_26: -1011286258
+      Dave The Magical Cheese Wizard 1_27: -1796702062
+      Dave The Magical Cheese Wizard 1_28: -1486775374
+      Dave The Magical Cheese Wizard 1_29: 476502506
+      Dave The Magical Cheese Wizard 1_3: 660043185
+      Dave The Magical Cheese Wizard 1_30: -1953468065
+      Dave The Magical Cheese Wizard 1_31: -1905225948
+      Dave The Magical Cheese Wizard 1_32: 1433094399
+      Dave The Magical Cheese Wizard 1_33: -1649376007
+      Dave The Magical Cheese Wizard 1_34: -1510789158
+      Dave The Magical Cheese Wizard 1_35: 1695051006
+      Dave The Magical Cheese Wizard 1_36: -2019161980
+      Dave The Magical Cheese Wizard 1_37: 1603209070
+      Dave The Magical Cheese Wizard 1_38: 972139504
+      Dave The Magical Cheese Wizard 1_39: 126043009
+      Dave The Magical Cheese Wizard 1_4: 1701578705
+      Dave The Magical Cheese Wizard 1_40: 2133649598
+      Dave The Magical Cheese Wizard 1_41: -1949736194
+      Dave The Magical Cheese Wizard 1_42: -1735760809
+      Dave The Magical Cheese Wizard 1_43: 1954799127
+      Dave The Magical Cheese Wizard 1_44: -318579385
+      Dave The Magical Cheese Wizard 1_45: 63162086
+      Dave The Magical Cheese Wizard 1_46: 395415130
+      Dave The Magical Cheese Wizard 1_47: 1640883079
+      Dave The Magical Cheese Wizard 1_48: 1618258272
+      Dave The Magical Cheese Wizard 1_49: -1083105182
+      Dave The Magical Cheese Wizard 1_5: -955587741
+      Dave The Magical Cheese Wizard 1_50: -1959844465
+      Dave The Magical Cheese Wizard 1_51: -418936305
+      Dave The Magical Cheese Wizard 1_52: -484600732
+      Dave The Magical Cheese Wizard 1_53: -394701682
+      Dave The Magical Cheese Wizard 1_54: 1400139974
+      Dave The Magical Cheese Wizard 1_55: -1409669743
+      Dave The Magical Cheese Wizard 1_56: -1899192065
+      Dave The Magical Cheese Wizard 1_57: 1591117806
+      Dave The Magical Cheese Wizard 1_58: -1755007436
+      Dave The Magical Cheese Wizard 1_59: -1633354277
+      Dave The Magical Cheese Wizard 1_6: 1787036816
+      Dave The Magical Cheese Wizard 1_60: 251979575
+      Dave The Magical Cheese Wizard 1_61: -1522153632
+      Dave The Magical Cheese Wizard 1_62: -1663300991
+      Dave The Magical Cheese Wizard 1_63: 81029769
+      Dave The Magical Cheese Wizard 1_64: 699926933
+      Dave The Magical Cheese Wizard 1_65: -720166794
+      Dave The Magical Cheese Wizard 1_66: -392175392
+      Dave The Magical Cheese Wizard 1_67: 1878745181
+      Dave The Magical Cheese Wizard 1_68: -607024377
+      Dave The Magical Cheese Wizard 1_69: -298719535
+      Dave The Magical Cheese Wizard 1_7: -1033173917
+      Dave The Magical Cheese Wizard 1_70: -148775005
+      Dave The Magical Cheese Wizard 1_71: 569941030
+      Dave The Magical Cheese Wizard 1_72: 6610375
+      Dave The Magical Cheese Wizard 1_73: 1871999597
+      Dave The Magical Cheese Wizard 1_74: -964152407
+      Dave The Magical Cheese Wizard 1_75: 318234257
+      Dave The Magical Cheese Wizard 1_76: 699967418
+      Dave The Magical Cheese Wizard 1_77: -777596280
+      Dave The Magical Cheese Wizard 1_78: -884621801
+      Dave The Magical Cheese Wizard 1_79: -638083566
+      Dave The Magical Cheese Wizard 1_8: 1770331130
+      Dave The Magical Cheese Wizard 1_80: 654108108
+      Dave The Magical Cheese Wizard 1_81: 1365810888
+      Dave The Magical Cheese Wizard 1_82: 1406518780
+      Dave The Magical Cheese Wizard 1_83: 2070598188
+      Dave The Magical Cheese Wizard 1_84: 737364938
+      Dave The Magical Cheese Wizard 1_85: 678037102
+      Dave The Magical Cheese Wizard 1_86: -1365498111
+      Dave The Magical Cheese Wizard 1_87: 44480770
+      Dave The Magical Cheese Wizard 1_88: -1664686333
+      Dave The Magical Cheese Wizard 1_89: 1312036021
+      Dave The Magical Cheese Wizard 1_9: -1544530327
+      Dave The Magical Cheese Wizard 1_90: -384603420
+      Dave The Magical Cheese Wizard 1_91: -1596736339
+      Dave The Magical Cheese Wizard 1_92: -410929282
+      Dave The Magical Cheese Wizard 1_93: 1942537214
+      Dave The Magical Cheese Wizard 1_94: -987149335
+      Dave The Magical Cheese Wizard 1_95: 503569621
+      Dave The Magical Cheese Wizard 1_96: 53401665
+      Dave The Magical Cheese Wizard 1_97: 971932632
+      Dave The Magical Cheese Wizard 1_98: 1396219709
+      Dave The Magical Cheese Wizard 1_99: -1652257887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

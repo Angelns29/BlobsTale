@@ -1,0 +1,1301 @@
+fileFormatVersion: 2
+guid: 264a117f8c3ee1b419105efa8581d5b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background-&-textbox-texture_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3773
+        width: 294
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701eef6ffaae88643b9850f86e437361
+      internalID: -1381182707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_1
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 4039
+        width: 373
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd29c6b23f7adb4e853f3bec6aae2f9
+      internalID: -1890216989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_2
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3989
+        width: 614
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fbe86fb51a8714297353890b8aa93f
+      internalID: 1409444326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_3
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 3921
+        width: 240
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8300195a0103607448d085cd61512add
+      internalID: 1500760746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 3810
+        width: 236
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a8b7003ad273d4282fde9d112201b0
+      internalID: -755788871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_5
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 3734
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f23d15874cbf140a90f05271d3518a
+      internalID: -1620440805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_6
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 3797
+        width: 214
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faeace68bf93694bb314708d30ddcec
+      internalID: -228344094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 3668
+        width: 550
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732fb24813af5ea429a1631772f72abb
+      internalID: 1314263815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 3527
+        width: 371
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca44a0a8f224644a8ea1081822abd5f
+      internalID: 1077789186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_9
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 3424
+        width: 571
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc35f45d7878b8b45ae36e926fbf921f
+      internalID: -1971856213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_10
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2973
+        width: 564
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a1d64629da2a64cb5e3ecfdb541646
+      internalID: -1972261270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_11
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3204
+        width: 417
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f877d32d67e6dfb429c6d7500412556e
+      internalID: 1921685767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_12
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 3328
+        width: 66
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846936d0e733cc4d9bbf4d1cd5c2d5b
+      internalID: -698880237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_13
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3331
+        width: 63
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4efb2183367efe4286de55f68cd7a14
+      internalID: 658936908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_14
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3028
+        width: 417
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c43f470586efb74985a6f4303966733
+      internalID: 1136204519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_15
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 3104
+        width: 66
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43bdea6355e52a458d35fd7c0c680ce
+      internalID: -1697130151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_16
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3104
+        width: 63
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d96283a3809b4cac2370776ca6dc8
+      internalID: 1130870164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_17
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2997
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1a27885782dbf458ce59983f262a74
+      internalID: 1294751831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_18
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2997
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ef09506113a44e836cbfeedb0f04e
+      internalID: 915336221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_19
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2997
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d88b871e8834f499c78f9781ddc998
+      internalID: 438748720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_20
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2997
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508056990207e384a9d30a335aa1c535
+      internalID: 1178335278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_21
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 2997
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63636f0650c51fc4382f4f3c37775f94
+      internalID: -855855297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_22
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2997
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6cf6b30e17db849b8dea11fd64fe26
+      internalID: 1693756025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_23
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2897
+        width: 412
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf908a071fd72a49bb8b177fdb5c5eb
+      internalID: 769258892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_24
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2964
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4d9a0e8b55d640a6334bda51a7e13
+      internalID: -680777059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_25
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2964
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9bd385e3ab2ac4585b3be4d93f0122
+      internalID: 1299761425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_26
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2964
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e1db25ef25f3d478858bb834886fba
+      internalID: 1776809142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_27
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2964
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c073abbfd4f46d840ba544a34ae98895
+      internalID: -1974309139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_28
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 2964
+        width: 74
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1dceaf5078a2f459879e5530f7fcfd
+      internalID: 487878292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_29
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2964
+        width: 72
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faa0eb6de4bfb6438b5c2f43c9aa07d
+      internalID: -239197221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_30
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2919
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0037d9d98049b6246b526ca4056543d0
+      internalID: 591061014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_31
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2919
+        width: 71
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe6bcd6d04e5194ca11ce0ed979a070
+      internalID: -1287924062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_32
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2919
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675f98ea6f0a20a42a2c3bdc35506a3e
+      internalID: -457007343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_33
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2919
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac6efa37d203a47bca3a1fe837da72
+      internalID: 604772277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_34
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 2919
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7636f6c66527f5a498e22bce1d2ef15c
+      internalID: 1516870609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_35
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2919
+        width: 69
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e734d18044963849ba7a5ff27f1afd6
+      internalID: 53382582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_36
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2886
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c785b9e14fc30342aa8e90cebccedec
+      internalID: -21002856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_37
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2886
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5920b6f49e79b1046a159626785dd545
+      internalID: -1438370143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_38
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2886
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988f83309e376bb4b8484a4e9aeeef43
+      internalID: 1284108562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_39
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 2886
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afd9a753e4c915429c7a9974c2a2e94
+      internalID: 1394056123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_40
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 2886
+        width: 72
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79666b538f9c3044091d916d2cbf1676
+      internalID: -1025357767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_41
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2886
+        width: 69
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59857203e9fc263459b0ea2a3ef849cf
+      internalID: 1607466173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2030
+        width: 777
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 3, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798e22decdb95624aab9710cbaba1da9
+      internalID: -889448698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_46
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2028
+        width: 777
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a378d79d13e5d874697f7a847a5a946f
+      internalID: 602805530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_49
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2029
+        width: 776
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da66cd7a393ae449c5aeec22f9c4f5
+      internalID: -659227083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_75
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1372
+        width: 774
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89414bdbe81080148b54fb0202ff3132
+      internalID: 203733614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_81
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1373
+        width: 773
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0775454a437b44b827056c79106f6
+      internalID: 108672299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_104
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 750
+        width: 772
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b99a43863e78f4cbd442ade53e5745
+      internalID: -680655193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-&-textbox-texture_105
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 750
+        width: 771
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d011cd3497d49ea429ff9641132ab33f
+      internalID: 955643563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      background-&-textbox-texture_0: -1381182707
+      background-&-textbox-texture_1: -1890216989
+      background-&-textbox-texture_10: -1972261270
+      background-&-textbox-texture_100: -346342237
+      background-&-textbox-texture_101: 773251892
+      background-&-textbox-texture_102: 594647510
+      background-&-textbox-texture_103: 2130169889
+      background-&-textbox-texture_104: -680655193
+      background-&-textbox-texture_105: 955643563
+      background-&-textbox-texture_11: 1921685767
+      background-&-textbox-texture_12: -698880237
+      background-&-textbox-texture_13: 658936908
+      background-&-textbox-texture_14: 1136204519
+      background-&-textbox-texture_15: -1697130151
+      background-&-textbox-texture_16: 1130870164
+      background-&-textbox-texture_17: 1294751831
+      background-&-textbox-texture_18: 915336221
+      background-&-textbox-texture_19: 438748720
+      background-&-textbox-texture_2: 1409444326
+      background-&-textbox-texture_20: 1178335278
+      background-&-textbox-texture_21: -855855297
+      background-&-textbox-texture_22: 1693756025
+      background-&-textbox-texture_23: 769258892
+      background-&-textbox-texture_24: -680777059
+      background-&-textbox-texture_25: 1299761425
+      background-&-textbox-texture_26: 1776809142
+      background-&-textbox-texture_27: -1974309139
+      background-&-textbox-texture_28: 487878292
+      background-&-textbox-texture_29: -239197221
+      background-&-textbox-texture_3: 1500760746
+      background-&-textbox-texture_30: 591061014
+      background-&-textbox-texture_31: -1287924062
+      background-&-textbox-texture_32: -457007343
+      background-&-textbox-texture_33: 604772277
+      background-&-textbox-texture_34: 1516870609
+      background-&-textbox-texture_35: 53382582
+      background-&-textbox-texture_36: -21002856
+      background-&-textbox-texture_37: -1438370143
+      background-&-textbox-texture_38: 1284108562
+      background-&-textbox-texture_39: 1394056123
+      background-&-textbox-texture_4: -755788871
+      background-&-textbox-texture_40: -1025357767
+      background-&-textbox-texture_41: 1607466173
+      background-&-textbox-texture_42: -571900636
+      background-&-textbox-texture_43: -889448698
+      background-&-textbox-texture_44: -1870067033
+      background-&-textbox-texture_45: -2081041662
+      background-&-textbox-texture_46: 602805530
+      background-&-textbox-texture_47: -1673606359
+      background-&-textbox-texture_48: -1020987917
+      background-&-textbox-texture_49: -659227083
+      background-&-textbox-texture_5: -1620440805
+      background-&-textbox-texture_50: 1862815448
+      background-&-textbox-texture_51: -1536258970
+      background-&-textbox-texture_52: -1307170322
+      background-&-textbox-texture_53: 95471776
+      background-&-textbox-texture_54: 2096972350
+      background-&-textbox-texture_55: 2080304279
+      background-&-textbox-texture_56: -1573543830
+      background-&-textbox-texture_57: 1860221712
+      background-&-textbox-texture_58: -1785680331
+      background-&-textbox-texture_59: -1245138262
+      background-&-textbox-texture_6: -228344094
+      background-&-textbox-texture_60: 1289354937
+      background-&-textbox-texture_61: 43719563
+      background-&-textbox-texture_62: -1104488274
+      background-&-textbox-texture_63: 1546884696
+      background-&-textbox-texture_64: 870176152
+      background-&-textbox-texture_65: -1629634766
+      background-&-textbox-texture_66: -1202618234
+      background-&-textbox-texture_67: -366394040
+      background-&-textbox-texture_68: -718272543
+      background-&-textbox-texture_69: 1468215341
+      background-&-textbox-texture_7: 1314263815
+      background-&-textbox-texture_70: -894900471
+      background-&-textbox-texture_71: -1752418739
+      background-&-textbox-texture_72: 1959221342
+      background-&-textbox-texture_73: 1067579018
+      background-&-textbox-texture_74: 1137505000
+      background-&-textbox-texture_75: 203733614
+      background-&-textbox-texture_76: 110240693
+      background-&-textbox-texture_77: 1574678402
+      background-&-textbox-texture_78: -7820752
+      background-&-textbox-texture_79: -1988263724
+      background-&-textbox-texture_8: 1077789186
+      background-&-textbox-texture_80: 1126436612
+      background-&-textbox-texture_81: 108672299
+      background-&-textbox-texture_82: 1853932179
+      background-&-textbox-texture_83: -397898125
+      background-&-textbox-texture_84: -1095768291
+      background-&-textbox-texture_85: 1686808705
+      background-&-textbox-texture_86: -503279897
+      background-&-textbox-texture_87: 450928725
+      background-&-textbox-texture_88: 1207503927
+      background-&-textbox-texture_89: -1981818222
+      background-&-textbox-texture_9: -1971856213
+      background-&-textbox-texture_90: -1651470723
+      background-&-textbox-texture_91: 1879540620
+      background-&-textbox-texture_92: 2139751501
+      background-&-textbox-texture_93: 81919123
+      background-&-textbox-texture_94: -1022470952
+      background-&-textbox-texture_95: -1204025980
+      background-&-textbox-texture_96: 378408840
+      background-&-textbox-texture_97: -1983979990
+      background-&-textbox-texture_98: -287083735
+      background-&-textbox-texture_99: -298951863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
